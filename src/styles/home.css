@@ -1,0 +1,7 @@
+.fieldContainer {
+    display: flex;
+}
+
+.fieldLabel {
+    padding-right: 1rem;
+}
