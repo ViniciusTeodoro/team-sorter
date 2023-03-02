@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/team-sorter/static/css/main.ea478fa7.css",
+    "main.js": "/team-sorter/static/js/main.4a37615b.js",
+    "static/js/787.69ec6109.chunk.js": "/team-sorter/static/js/787.69ec6109.chunk.js",
+    "index.html": "/team-sorter/index.html",
+    "main.ea478fa7.css.map": "/team-sorter/static/css/main.ea478fa7.css.map",
+    "main.4a37615b.js.map": "/team-sorter/static/js/main.4a37615b.js.map",
+    "787.69ec6109.chunk.js.map": "/team-sorter/static/js/787.69ec6109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea478fa7.css",
+    "static/js/main.4a37615b.js"
+  ]
+}
